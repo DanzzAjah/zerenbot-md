@@ -18,7 +18,7 @@ global.APIKeys = {
 }
 
 // Other (apikey isi disini)
-global.LolApiKey = 'apikeylu'
+global.LolApiKey = 'https://api.lolhuman.xyz'
 global.Imgbb = '7b2fde1f55b9a594d5db403f0a0c2712'
 global.owner = ['6288270863279']
 global.premium = ['6288270863279']
